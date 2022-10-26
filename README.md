@@ -25,17 +25,20 @@ https://github.com/Anastasia-web-front/Test-Work-layout
 4. Мое решение проблемы с горизонтальным скроллом:
 
 В CSS:
-
+```
 @media (max-width: 400px){
-  html, body{
-     overflow-x: hidden;
+  html, body{  
+     overflow-x: hidden;     
   }
-  table{
-    table-layout: fixed;
-    width: 20%;
+  
+  table{ 
+    table-layout: fixed;  
+    width: 20%;   
  }
+ 
   td{
-    overflow: hidden;
-    white-space: wrap;
+    overflow: hidden;  
+    white-space: wrap;  
   }
 }
+```
