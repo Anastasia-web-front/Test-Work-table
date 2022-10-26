@@ -18,7 +18,6 @@ https://github.com/Anastasia-web-front/Test-Work-tickets
 
 
 3. Верстка макета:
-
 https://github.com/Anastasia-web-front/Test-Work-layout
 
 
